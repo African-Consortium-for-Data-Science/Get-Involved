@@ -6,6 +6,32 @@ Here are some guidelines on how to contribute and get involved in the African Co
     + Start by reading the [README.md](https://github.com/African-Consortium-for-Data-Science) file to understand ACoDS's mission, objectives, and ongoing [initiatives & events](https://github.com/African-Consortium-for-Data-Science/Events).
     + Pay attention to any specific guidelines or announcements mentioned.
 
+    + Two ways to get involed, the first one is via a Google form and the second one is the GitHub way :smiley:.
+ 
+    + The following contributions are welcome:
+        - Curriculum outlines
+        - Texts
+        - Lecture notes (.doc, .docx, .ods, .rtf, .pdf formats)
+        - PowerPoint presentations / slides (ppt,pptx,odp,or pdf formats)
+        - Exercises
+        - Jupyter notebooks
+        - Hackathons
+        - Lists of online resources with links
+        - Anything related to data science that could be used in a course or educational setting
+
+<br/>
+<br/>
+
+### 1. Get involved via a Google form (Recommended)
+
+Please use this [Google form]() to make submissions to the [African Consortium for Data Science](https://github.com/African-Consortium-for-Data-Science) repository for data science learning resources.
+
+
+<br/>
+<br/>
+
+### 2. Get involved the GitHub way :smiley: 
+
 * Create a GitHub Account:
 
     + If you don't have one already, create a [GitHub account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
