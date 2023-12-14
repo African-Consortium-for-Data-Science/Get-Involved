@@ -24,7 +24,7 @@ Here are some guidelines on how to contribute and get involved in the African Co
 
 ### 1. Get involved via a Google form (Recommended)
 
-Please use this [Google form]() to make submissions to the [African Consortium for Data Science](https://github.com/African-Consortium-for-Data-Science) repository for data science learning resources.
+Please use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeTeNQInx6hmR4h4CRcKvlo6kt_wrPxNSfuJqo7FEWxjHiOqA/viewform) to make submissions to the [African Consortium for Data Science](https://github.com/African-Consortium-for-Data-Science) repository for data science learning resources.
 
 
 <br/>
