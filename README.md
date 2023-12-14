@@ -52,4 +52,4 @@ Please use this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeTeNQInx
 
 * Spread the Word:
 
-    + Help promote ACoDS by sharing your contributions on social media or within your professional network.    
+    + Help promote ACfDS by sharing your contributions on social media or within your professional network.    
