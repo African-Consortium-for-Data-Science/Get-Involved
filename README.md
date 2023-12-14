@@ -1,6 +1,6 @@
 # Get-Involved
 
-Here are some guidelines on how to contribute and get involved in the African Consortium for Data Science (ACoDS) GitHub repository:
+Here are some guidelines on how to contribute and get involved in the African Consortium for Data Science (ACfDS) GitHub repository:
 
 * Familiarize Yourself with the README:
     + Start by reading the [README.md](https://github.com/African-Consortium-for-Data-Science) file to understand ACoDS's mission, objectives, and ongoing [initiatives & events](https://github.com/African-Consortium-for-Data-Science/Events).
